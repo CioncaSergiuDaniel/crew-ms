@@ -1,0 +1,15 @@
+# IntelliJ
+.idea
+gen
+*.iml
+# Eclipse
+.metadata/
+.settings/
+/bin/
+/tmp/
+local.properties
+.project
+*.launch
+.classpath
+# Maven
+/target/
